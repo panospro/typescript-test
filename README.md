@@ -20,3 +20,4 @@ Documentation: https://typescript.nuxtjs.org
 [MIT License](./LICENSE)
 
 Copyright (c) Nuxt.js Team
+
